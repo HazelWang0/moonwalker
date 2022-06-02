@@ -3,6 +3,6 @@ layout: post
 title: About
 ---
 
-This is an example page!
+Hi there!
 
-Actually, it has the same layout of a post...
+Welcome to hazel's blog.
